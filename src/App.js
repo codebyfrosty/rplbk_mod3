@@ -9,7 +9,7 @@ class App extends React.Component {
       <div id = "wrapper" className="App container border">
         <div class="container">                     
             <h1 class="mt-5"> Website Sewa Kendaraan</h1>
-            <img src='https://www.bastianrental.com/wp-content/uploads/2018/05/Banner-rental-mobil-murah-1.png' alt=''></img>
+            <img src='https://www.bastianrental.com/wp-content/uploads/2018/05/Banner-rental-mobil-murah-1.png' alt='Banner-rental-mobil-murah-1.png'></img>
             <h3 class="mt-5">Tugas Kelompok IV </h3>        
                 <Home />
         </div>
